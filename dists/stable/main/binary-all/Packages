@@ -1,0 +1,16 @@
+Package: pinina-chincol
+Version: 1.0
+Architecture: all
+Maintainer: Pinina Industries <pinina@pocho.local
+Depends: figlet, lolcat
+Filename: pool/main/p/pinina-chincol/pinina-chincol_1.0_all.deb
+Size: 1102
+MD5sum: a9ed07307d0c0cfa06d2d40a5cae47bf
+SHA1: fce7791a3386d0fea6225daa2c42a52a05000f11
+SHA256: 304da390627715f7cbafc1c8b29b7e2167e4b329d5d6f449ccaa23014e50107f
+Section: games
+Priority: optional
+Description: Ultra-fast rainbow chincol terminal command with sound
+ Infinite rainbow ASCII chaos featuring the legendary chincol.
+ Press CTRL+C to escape.
+
